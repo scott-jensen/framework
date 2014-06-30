@@ -121,17 +121,28 @@ select {
 
 /*-------------- iPAD LANDSCAPE --------------*/
 
+@media screen and (max-width: 1024px) {
+
+
+}
 
 
 /*--------------- iPAD PORTRAIT --------------*/
 
+@media screen and (max-width: 768px) {
 
 
-/*------------- iPHONE LANDSCAPE --------------*/
-
+}
 
 
 /*-------------- iPHONE PORTRAIT --------------*/
+
+
+@media screen and (max-width: 320px) {
+
+
+}
+
 
 
 
